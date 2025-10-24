@@ -1,7 +1,3 @@
-#!/usr/bin/env bash
-# render_views.sh
-# Generate 8 rendered views of an STL using OpenSCAD (no WSL required)
-
 set -euo pipefail
 
 # --- CONFIG ---
