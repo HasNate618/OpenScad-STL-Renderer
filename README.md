@@ -1,5 +1,5 @@
 # OpenSCAD STL Renderer
-A simple Bash script to automatically generate 8 rendered views (4 top, 4 bottom) of any `.stl` model using \[OpenSCAD](https://openscad.org/).
+A simple Bash script to automatically generate 8 rendered views (4 top, 4 bottom) of any `.stl` model using [OpenSCAD](https://openscad.org/).
 
 ---
 
